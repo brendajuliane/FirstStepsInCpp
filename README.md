@@ -1,2 +1,2 @@
-# AprendendoC-
-Exercícios realizados para a disciplina de Programação Orientada a Objetos I
+# AprendendoPOO
+Exercícios de C++ realizados para a disciplina de Programação Orientada a Objetos I
